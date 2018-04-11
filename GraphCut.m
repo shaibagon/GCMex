@@ -135,7 +135,7 @@ function [gch, varargout] = GraphCut(mode, varargin)
 %
 %
 %
-%   This wrapper for Matlab was written by Shai Bagon (shai.bagon@weizmann.ac.il).
+%   This wrapper for Matlab was written by Shai Bagon (shaibagon@gmail.com).
 %   Department of Computer Science and Applied Mathmatics
 %   Wiezmann Institute of Science
 %   http://www.wisdom.weizmann.ac.il/
@@ -163,7 +163,7 @@ function [gch, varargout] = GraphCut(mode, varargin)
 % 
 %   [4] Matlab Wrapper for Graph Cut.
 %        Shai Bagon.
-%        in www.wisdom.weizmann.ac.il/~bagon, December 2006.
+%        in https://github.com/shaibagon/GCMex, December 2006.
 % 
 %   This software can be used only for research purposes, you should  cite ALL of
 %   the aforementioned papers in any resulting publication.

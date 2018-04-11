@@ -29,7 +29,7 @@
    This software is for academic use ONLY. 
    If you are using this software please note required citations in the Matlab documenation.
    
-   For any questions/remarks/problems with the Matlab wrapper please contact shai.bagon@weizmann.ac.il
+   For any questions/remarks/problems with the Matlab wrapper please contact shaibagon@gmail.com
    
    
 1. Introduction.

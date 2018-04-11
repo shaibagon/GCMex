@@ -117,7 +117,7 @@ GCoptimization* GetGCHandle(const mxArray *x);    /* extract ahndle from mxArry 
  *   See Also:
  *       GraphCutConstr
  *
- *   This wrapper for Matlab was written by Shai Bagon (shai.bagon@weizmann.ac.il).
+ *   This wrapper for Matlab was written by Shai Bagon (shaibagon@gmail.com).
  *   Department of Computer Science and Applied Mathmatics
  *   Wiezmann Institute of Science
  *   http://www.wisdom.weizmann.ac.il/
@@ -141,7 +141,7 @@ GCoptimization* GetGCHandle(const mxArray *x);    /* extract ahndle from mxArry 
  *
  *   [4] Matlab Wrapper for Graph Cut.
  *       Shai Bagon.
- *       in www.wisdom.weizmann.ac.il/~bagon, December 2006.
+ *       in https://github.com/shaibagon/GCMex, December 2006.
  *     
  * 	This software can be used only for research purposes, you should cite
  * 	the aforementioned papers in any resulting publication.
@@ -149,7 +149,7 @@ GCoptimization* GetGCHandle(const mxArray *x);    /* extract ahndle from mxArry 
  * 	for commercial purposes, you should be aware that there is a US patent: 
  * 
  * 		R. Zabih, Y. Boykov, O. Veksler, 
- * 		"System and method for fast approximate energy minimization via graph cuts ", 
+ * 		"System and method for fast approximate energy minimization via graph cuts", 
  * 		United Stated Patent 6,744,923, June 1, 2004
  *
  *

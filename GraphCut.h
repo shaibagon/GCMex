@@ -3,7 +3,7 @@
  *
  * Wrapper for Weksler Olga's GraphCut to Matlab
  *
- * wrapper by Shai Bagon 2006, contact shai.abgon@weizmann.ac.il or shaibagon@gmail.com
+ * wrapper by Shai Bagon 2006, contact shaibagon@gmail.com
  *
  */
 #ifndef _GRAPH_CUT_H_
